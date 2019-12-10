@@ -1,0 +1,11 @@
+/Users/frankperri/workspace/GitHub/mastermind/bin/Debug/netcoreapp3.1/mastermind
+/Users/frankperri/workspace/GitHub/mastermind/bin/Debug/netcoreapp3.1/mastermind.deps.json
+/Users/frankperri/workspace/GitHub/mastermind/bin/Debug/netcoreapp3.1/mastermind.runtimeconfig.json
+/Users/frankperri/workspace/GitHub/mastermind/bin/Debug/netcoreapp3.1/mastermind.runtimeconfig.dev.json
+/Users/frankperri/workspace/GitHub/mastermind/bin/Debug/netcoreapp3.1/mastermind.dll
+/Users/frankperri/workspace/GitHub/mastermind/bin/Debug/netcoreapp3.1/mastermind.pdb
+/Users/frankperri/workspace/GitHub/mastermind/obj/Debug/netcoreapp3.1/mastermind.csprojAssemblyReference.cache
+/Users/frankperri/workspace/GitHub/mastermind/obj/Debug/netcoreapp3.1/mastermind.AssemblyInfoInputs.cache
+/Users/frankperri/workspace/GitHub/mastermind/obj/Debug/netcoreapp3.1/mastermind.AssemblyInfo.cs
+/Users/frankperri/workspace/GitHub/mastermind/obj/Debug/netcoreapp3.1/mastermind.dll
+/Users/frankperri/workspace/GitHub/mastermind/obj/Debug/netcoreapp3.1/mastermind.pdb
